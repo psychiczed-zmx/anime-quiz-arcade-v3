@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T17:22:50",
+  "updatedAt": "2026-10-30T18:25:55",
   "difficulties": [
     "入门级",
     "普宅",
@@ -52,7 +52,10 @@
         "q-379b5168",
         "q-6ddbe577",
         "q-cff9bb2f",
-        "q-e797d823"
+        "q-e797d823",
+        "q-439f758d",
+        "q-b59168e9",
+        "q-a3010f50"
       ],
       "published": true,
       "sortOrder": 0
@@ -80,7 +83,15 @@
         "submission-q26",
         "submission-q29",
         "submission-q36",
-        "q-c7b1300a"
+        "q-c7b1300a",
+        "q-f300891e",
+        "q-d560cf13",
+        "q-549dcb21",
+        "q-53e2640b",
+        "q-2f5ed30a",
+        "q-fe852476",
+        "q-e0d20d3d",
+        "q-60370274"
       ],
       "published": true,
       "sortOrder": 1
@@ -1246,6 +1257,187 @@
       "explanationImage": "assets/images/ScreenShot_2026-10-30_172013_496.png",
       "audio": "assets/audio/アイドル (偶像) - YOASOBI    2026-10-30 17-19-28.mp3",
       "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-439f758d",
+      "type": "audio-choice",
+      "question": "以下台词出自哪部番？",
+      "options": [
+        "进击的巨人",
+        "EVA新世纪福音战士",
+        "命运石之门",
+        "叛逆的鲁鲁修"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "image": "",
+      "explanationImage": "assets/images/ScreenShot_2026-10-30_174830_224.png",
+      "audio": "assets/audio/心臓を捧げよ_哔哩哔哩_bilibili - Google Chrome 2026-10-30 17.mp3",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-f300891e",
+      "type": "image-character",
+      "question": "以下人物是？",
+      "options": [
+        "奥村雪男",
+        "奥村磷",
+        "影山飞雄",
+        "洁世一"
+      ],
+      "answer": 1,
+      "explanation": "奥村燐是日本漫画系列《青之驱魔师》及其衍生作品的主角。",
+      "image": "assets/images/91529822720e0cf3d7ca47c6e11fe51fbe096b637cce_1_1.webp",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-b59168e9",
+      "type": "fill",
+      "question": "以下人物是？",
+      "options": [],
+      "answer": [
+        "小埋",
+        "土间埋"
+      ],
+      "explanation": "土间埋，日本漫画《干物妹！小埋》及其衍生作品中的女主角，性格温柔并且头脑又很好，被所有才能眷顾着的，无可挑剔的美少女高中生。",
+      "image": "assets/images/干物妹!小埋_OP.jpg",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-a3010f50",
+      "type": "image-title",
+      "question": "以下人物出自哪部番？",
+      "options": [
+        "干物妹小埋",
+        "小林家的龙女仆",
+        "齐木楠雄的灾难",
+        "为美好的世界献上祝福"
+      ],
+      "answer": 1,
+      "explanation": "康娜·卡姆依，又称小林康娜，日本漫画《小林家的龙女仆》及其衍生作品中的角色。",
+      "image": "assets/images/u=2263489946,284223068&fm=253&app=138&f=JPEG.jpg",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-d560cf13",
+      "type": "image-character",
+      "question": "以下人物是？",
+      "options": [
+        "巴卫",
+        "御狐神双炽",
+        "银仙",
+        "妖狐藏马"
+      ],
+      "answer": 1,
+      "explanation": "御狐神双炽是日本漫画《妖狐×仆SS》的男主角，原型出自藤原可可亚短篇漫画《千金小姐与妖怪执事》的男主角。",
+      "image": "",
+      "explanationImage": "assets/images/images (5).jpg",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-549dcb21",
+      "type": "single",
+      "question": "《轻音少女》中，平泽唯在乐队里担任什么位置？",
+      "options": [
+        "贝斯手",
+        "主唱兼吉他手",
+        "鼓手",
+        "键盘手"
+      ],
+      "answer": 1,
+      "explanation": "平泽唯是轻音部的吉他手，同时也是主唱。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-53e2640b",
+      "type": "single",
+      "question": "《辉夜大小姐想让我告白》里，学生会书记的名字是？",
+      "options": [
+        "藤原千花",
+        "早坂爱",
+        "伊井野弥子",
+        "四宫辉夜"
+      ],
+      "answer": 0,
+      "explanation": "藤原千花是秀知院学园学生会的书记，性格活泼。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-2f5ed30a",
+      "type": "single",
+      "question": "《月刊少女野崎君》中，野崎梅太郎的漫画笔名是？",
+      "options": [
+        "梦野咲子",
+        "月岛咲",
+        "星野梦",
+        "森川绘"
+      ],
+      "answer": 0,
+      "explanation": "野崎梅太郎以女性笔名「梦野咲子」连载少女漫画。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-fe852476",
+      "type": "single",
+      "question": "《打工吧！魔王大人》魔王在现代日本打工的门店是？",
+      "options": [
+        "麦当劳",
+        "家庭餐厅",
+        "麦格劳",
+        "便利店"
+      ],
+      "answer": 2,
+      "explanation": "魔王真奥贞夫在麦格劳快餐店打工，职位是店员。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-e0d20d3d",
+      "type": "truefalse",
+      "question": "《轻音少女》里，秋山澪一开始是想要加入吹奏乐部的。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 0,
+      "explanation": "秋山澪原本打算参加吹奏乐部，被田井中律拉进了轻音部。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-60370274",
+      "type": "truefalse",
+      "question": "《打工吧！魔王大人》里，勇者游佐惠美来到日本之后，在快递店上班。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "explanation": "游佐惠美在日本的工作是电话客服，不是快递店。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
     }
   ]
 }
