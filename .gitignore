@@ -1,0 +1,8 @@
+# Local tool outputs
+admin-tool/dist/
+admin-tool/build/
+admin-tool/*.spec
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

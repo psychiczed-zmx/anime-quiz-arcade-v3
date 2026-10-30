@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-10-30T12:18:19",
+  "difficulties": [
+    "入门级",
+    "普宅",
+    "深度宅",
+    "究极宅"
+  ],
+  "quizzes": [
+    {
+      "id": "quiz-entry",
+      "title": "入门级",
+      "description": "动漫基础知识与热门角色；每次随机挑战最多20题",
+      "difficulty": "入门级",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7",
+        "q8",
+        "q17",
+        "q18",
+        "q24",
+        "q26",
+        "q29"
+      ],
+      "published": true,
+      "sortOrder": 0
+    },
+    {
+      "id": "quiz-ordinary",
+      "title": "普宅",
+      "description": "进阶动漫知识挑战；每次随机挑战最多20题",
+      "difficulty": "普宅",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q12",
+        "q13",
+        "q14",
+        "q19",
+        "q20",
+        "q21",
+        "q25",
+        "q28"
+      ],
+      "published": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "quiz-deep",
+      "title": "深度宅",
+      "description": "面向资深动漫爱好者；每次随机挑战最多20题",
+      "difficulty": "深度宅",
+      "questionIds": [
+        "q15",
+        "q16",
+        "q22",
+        "q23",
+        "q27"
+      ],
+      "published": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "quiz-ultimate",
+      "title": "究极宅",
+      "description": "究极级动漫知识挑战；每次随机挑战最多20题",
+      "difficulty": "究极宅",
+      "questionIds": [
+        "q11"
+      ],
+      "published": true,
+      "sortOrder": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "single",
+      "question": "在《咒术回战》中，虎杖悠仁最初吞下了什么？",
+      "options": [
+        "宿傩的手指",
+        "咒灵的眼睛",
+        "特级咒物的头发",
+        "一枚咒符"
+      ],
+      "answer": 0,
+      "explanation": "虎杖为了救人吞下两面宿傩的手指，由此成为宿傩的容器。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q2",
+      "type": "single",
+      "question": "调查兵团常用的机动装置叫什么？",
+      "options": [
+        "立体机动装置",
+        "空中滑翔器",
+        "磁力飞行器",
+        "蒸汽推进器"
+      ],
+      "answer": 0,
+      "explanation": "立体机动装置让士兵能够利用锚钩和气体推进在建筑物、树木间高速移动。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q3",
+      "type": "single",
+      "question": "江户川柯南的真实身份是？",
+      "options": [
+        "工藤新一",
+        "服部平次",
+        "白马探",
+        "怪盗基德"
+      ],
+      "answer": 0,
+      "explanation": "工藤新一被黑衣组织灌下药物后身体缩小，并以江户川柯南的身份活动。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q4",
+      "type": "single",
+      "question": "哪位角色使用日轮刀，并以水之呼吸为主要战斗方式？",
+      "options": [
+        "我妻善逸",
+        "富冈义勇",
+        "嘴平伊之助",
+        "不死川实弥"
+      ],
+      "answer": 1,
+      "explanation": "富冈义勇是水柱，擅长水之呼吸。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q5",
+      "type": "single",
+      "question": "路飞的梦想是成为海贼王。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 0,
+      "explanation": "路飞立志找到传说中的大秘宝，并成为海贼王。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q6",
+      "type": "single",
+      "question": "阿尼亚拥有哪种特殊能力？",
+      "options": [
+        "预知未来",
+        "读心术",
+        "隐身",
+        "瞬间移动"
+      ],
+      "answer": 1,
+      "explanation": "阿尼亚能够读取他人的想法，这也是故事中许多误会和笑点的来源。",
+      "image": "assets/images/images (1).jpg",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q7",
+      "type": "image-character",
+      "question": "以下人物是？",
+      "options": [
+        "目暮十一",
+        "目暮十二",
+        "目暮十三",
+        "目暮十四"
+      ],
+      "answer": 2,
+      "explanation": "目暮十三，日本漫画《名侦探柯南》及其衍生作品中的角色。",
+      "image": "assets/images/images.jpg",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q8",
+      "type": "single",
+      "question": "日向翔阳最初加入的是哪项运动的社团？",
+      "options": [
+        "篮球",
+        "排球",
+        "网球",
+        "足球"
+      ],
+      "answer": 1,
+      "explanation": "日向翔阳受到电视中排球比赛的影响，开始追逐排球梦想。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q9",
+      "type": "single",
+      "question": "名侦探柯南里小兰给高烧的灰原哀做过什么料理？【此题由（结城杏）提供】",
+      "options": [
+        "梅粥",
+        "什锦粥",
+        "鸡蛋粥",
+        "海鲜粥"
+      ],
+      "answer": 2,
+      "explanation": "TV版第 340 集（海外版 365 集）《厕所里隐藏的秘密（前篇）》。\n•情节发展：当时灰原哀患了重感冒，发烧躺在阿笠博士家休息。得知消息的小兰特意带了食材来到博士家，亲手为小哀熬煮了热气腾腾的鸡蛋粥。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q10",
+      "type": "fill",
+      "question": "柯南的呆毛里有什么？【此题由（十一）提供】",
+      "options": [],
+      "answer": [
+        "头骨",
+        "骨头",
+        "骨"
+      ],
+      "explanation": "参考链接 https://www.tiktok.com/@tudianying/video/7497474459952090386",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "question": "在《名侦探柯南》“走投无路的名侦探！连续两大杀人事件”一集中，有希子曾说柯南是她：  【此题由（结城杏）提供】",
+      "options": [
+        "祖母的哥哥的女儿的堂表姐的叔母的孙子",
+        "邻居家的儿子",
+        "祖父的姐姐的女儿的堂妹的阿姨的孙子",
+        "祖父的哥哥的女儿的堂妹的叔叔的孙子"
+      ],
+      "answer": 3,
+      "explanation": "在《名侦探柯南》“走投无路的名侦探！连续两大杀人事件”一集中，江户川柯南的身份差点被毛利兰识破。为了帮柯南掩饰身份，赶回日本的工藤有希子对毛利兰声称，柯南是她祖父的哥哥的女儿的堂兄的叔叔的孙子（日语：祖父の兄の娘のいとこの叔父さんの孫）。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-ultimate",
+      "explanationImage": ""
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "question": "小五郎一直以来在荷包蛋上加什么调味料？【此题由（结城杏）提供】",
+      "options": [
+        "美乃滋",
+        "盐",
+        "什么都不放",
+        "酱汁"
+      ],
+      "answer": 3,
+      "explanation": "根据《名侦探柯南》原作第37卷（动画“看不见的嫌疑犯”）中妃英理的爆料，小五郎其实从小就是个“酱汁派”，他只是因为不好意思承认自己和英理的口味一模一样，才故意别扭地改加酱油。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q13",
+      "type": "fill",
+      "question": "两面宿傩被切成几根手指？【此题由（十一）提供】",
+      "options": [],
+      "answer": [
+        "20",
+        "二十"
+      ],
+      "explanation": "在动漫《咒术回战》中，宿傩死后全身的20根手指被切下来，制成特级咒物后被封印并散落日本各地。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "question": "使柯南身体变小的药叫什么名字？【此题由（结城杏）提供】",
+      "options": [
+        "APTX-4869",
+        "ATPX-4869",
+        "APTX-4689",
+        "ATPX-4869"
+      ],
+      "answer": 0,
+      "explanation": "使柯南身体变小的药叫 APTX4869（全称为 APOPTOXIN 4869）。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q15",
+      "type": "fill",
+      "question": "以下图中哪个是远山和叶的嘴？（填序号即可）【此题由（十一）提供】",
+      "options": [],
+      "answer": "3",
+      "explanation": "",
+      "image": "assets/images/微信图片_2026-10-28_161452_146.jpg",
+      "audio": "",
+      "categoryId": "quiz-deep",
+      "explanationImage": ""
+    },
+    {
+      "id": "q16",
+      "type": "fill",
+      "question": "请选出图中真正的女性。（填写序号即可）【此题由（十一）提供】",
+      "options": [],
+      "answer": "7",
+      "explanation": "第一个是整容的 第二个是快斗 第三个是宾加 第四个是快斗 第五个是快斗 第六个是快斗 第七个是真的女生 第八个是快斗 第九个是快斗",
+      "image": "assets/images/微信图片_2026-10-28_161859_544.jpg",
+      "audio": "",
+      "categoryId": "quiz-deep",
+      "explanationImage": ""
+    },
+    {
+      "id": "q17",
+      "type": "image-title",
+      "question": "以下人物是出自哪个番？",
+      "options": [
+        "我独自升级",
+        "JOJO的奇妙冒险",
+        "葬送的芙莉莲",
+        "钢之炼金术师"
+      ],
+      "answer": 1,
+      "explanation": "https://baike.baidu.com/item/%E4%B9%94%E7%91%9F%E5%A4%AB%C2%B7%E4%B9%94%E6%96%AF%E8%BE%BE/5499095",
+      "image": "assets/images/joseph-joestar-season-two-v0-tyrajlxclypf1.jpg",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q18",
+      "type": "image-character",
+      "question": "以下人物是？",
+      "options": [
+        "拉斯特",
+        "峰不二子",
+        "山岸由花子",
+        "来生泪"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "image": "assets/images/e558c846f2eb2a19ac71d13c3a3ea359_720w.jpg",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q19",
+      "type": "fill",
+      "question": "以下人物是？",
+      "options": [],
+      "answer": [
+        "白银会长",
+        "白银御行",
+        "白银"
+      ],
+      "explanation": "白银御行，漫画《辉夜大小姐想让我告白～天才们的恋爱头脑战～》及其衍生作品中的主角",
+      "image": "assets/images/images (2).jpg",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q20",
+      "type": "image-title",
+      "question": "以下人物出自哪部番？",
+      "options": [
+        "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+        "竹取物语",
+        "会长是女仆大人",
+        "我推的孩子"
+      ],
+      "answer": 0,
+      "explanation": "石上优，漫画《辉夜大小姐想让我告白～天才们的恋爱头脑战～》及其衍生作品中的男性角色，原型为《竹取物语》中的石上麻吕足",
+      "image": "assets/images/images (3).jpg",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q21",
+      "type": "image-character",
+      "question": "以下人物是？",
+      "options": [
+        "柏崎星奈",
+        "食蜂操祈",
+        "宫园薰",
+        "椎名真白"
+      ],
+      "answer": 1,
+      "explanation": "食蜂操祈，日本轻小说《魔法禁书目录》及其外传漫画《科学超电磁炮》中的人物。",
+      "image": "assets/images/1i5UpB70pVh7w4cEhLFm8Qd2a87a5abcb8f476454861599d01680f.jpg",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q22",
+      "type": "fill",
+      "question": "上条当麻的超能力是？（寄宿在他右手的是）",
+      "options": [],
+      "answer": "幻想杀手",
+      "explanation": "都市传说中“拥有能将任何能力无效化的能力的男人”的真身，其寄宿“幻想杀手”的右手有着不论善恶，让一切超能力消失的特异能力。",
+      "image": "",
+      "audio": "",
+      "categoryId": "quiz-deep",
+      "explanationImage": ""
+    },
+    {
+      "id": "q23",
+      "type": "image-character",
+      "question": "以下人物是？",
+      "options": [
+        "蛇喰梦子",
+        "壹原侑子",
+        "散华礼弥",
+        "阎魔爱"
+      ],
+      "answer": 2,
+      "explanation": "散华礼弥 动画第6话「あなたに…出会えたから」",
+      "image": "assets/images/Sankarea-Episode-6-Zombie-Rea.jpg",
+      "audio": "",
+      "categoryId": "quiz-deep",
+      "explanationImage": ""
+    },
+    {
+      "id": "q24",
+      "type": "fill",
+      "question": "以下人物是？",
+      "options": [],
+      "answer": [
+        "柚木司",
+        "司",
+        "阿司"
+      ],
+      "explanation": "柚木司是漫画《地缚少年花子君》及其衍生作品中的角色，首次登场于漫画第15话，动画版由绪方惠美配音。作为男主角花子君（柚木普）的双胞胎弟弟，他身着古老和风校服，右脸贴有黑底红字封条，身边跟随名为“黑杖代”的黑色幽灵",
+      "image": "assets/images/images (4).jpg",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q25",
+      "type": "image-title",
+      "question": "以下人物出自哪部番？",
+      "options": [
+        "黄金神威",
+        "JOJO的奇妙冒险",
+        "刃牙",
+        "北斗神拳"
+      ],
+      "answer": 3,
+      "explanation": "日本1984年芦田丰雄执导的长篇系列动画",
+      "image": "assets/images/3e82d562e8fda24a53e9cea0c8be9eb8cd89bd35.jpg",
+      "audio": "",
+      "categoryId": "quiz-ordinary",
+      "explanationImage": ""
+    },
+    {
+      "id": "q26",
+      "type": "single",
+      "question": "以下人物是？",
+      "options": [
+        "坂田银时",
+        "五条悟",
+        "奇犽",
+        "金木研"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "image": "assets/images/w700d1q75cms-ae160a.jpg",
+      "audio": "",
+      "categoryId": "quiz-entry",
+      "explanationImage": ""
+    },
+    {
+      "id": "q27",
+      "type": "single",
+      "question": "K-on!的秋山澪洗澡时会先洗哪里？【此题由（夜喵）提供】",
+      "options": [
+        "头",
+        "脚",
+        "地板",
+        "莲蓬头"
+      ],
+      "answer": 3,
+      "explanation": "夜喵在看番的时候发现的。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-deep"
+    },
+    {
+      "id": "q28",
+      "type": "single",
+      "question": "樱兰高校男公关部里须王环说放玻璃杯的第一步是什么？【此题由（夜喵）提供】",
+      "options": [
+        "倒上水",
+        "放杯垫",
+        "用小拇指垫",
+        "用脚垫"
+      ],
+      "answer": 2,
+      "explanation": "这个名场面出自《樱兰高校男公关部》动画第1集：从今天开始做男公关（从今天起当男公关）。\n当时藤冈春绯刚进入男公关部，打破了价值800万日元的花瓶，为了还债不得不留下来接受男公关的特训。社长须王环在现场亲自示范“款待女性的平民礼仪”时，向春绯展示了如何优雅地放下水杯。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q29",
+      "type": "fill",
+      "question": "蛇柱伊黑小八内的宠物白蛇名字是？【此题由（薛让）提供】",
+      "options": [],
+      "answer": "镝丸",
+      "explanation": "好像并不需要解释。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    }
+  ]
+}

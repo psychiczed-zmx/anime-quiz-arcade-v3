@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "submissionTitle": "我的题目投稿",
+  "authorName": "",
+  "notes": "",
+  "questions": [
+    {
+      "id": "submission-q1",
+      "type": "single",
+      "question": "请填写题目",
+      "options": [
+        "选项 A",
+        "选项 B",
+        "选项 C",
+        "选项 D"
+      ],
+      "answer": 0,
+      "explanation": "请填写解析",
+      "image": "",
+      "audio": ""
+    }
+  ],
+  "suggestedQuiz": {
+    "title": "建议归入的题库",
+    "difficulty": "入门级"
+  }
+}
