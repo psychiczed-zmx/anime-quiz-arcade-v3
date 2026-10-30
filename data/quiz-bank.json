@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T15:57:54",
+  "updatedAt": "2026-10-30T17:22:50",
   "difficulties": [
     "入门级",
     "普宅",
@@ -44,7 +44,15 @@
         "submission-q32",
         "submission-q33",
         "submission-q35",
-        "submission-q39"
+        "submission-q39",
+        "q-7324b40a",
+        "q-8ee29fe3",
+        "q-bf6142ad",
+        "q-8b9212d6",
+        "q-379b5168",
+        "q-6ddbe577",
+        "q-cff9bb2f",
+        "q-e797d823"
       ],
       "published": true,
       "sortOrder": 0
@@ -71,7 +79,8 @@
         "submission-q22",
         "submission-q26",
         "submission-q29",
-        "submission-q36"
+        "submission-q36",
+        "q-c7b1300a"
       ],
       "published": true,
       "sortOrder": 1
@@ -90,7 +99,8 @@
         "submission-q17",
         "submission-q27",
         "submission-q28",
-        "submission-q31"
+        "submission-q31",
+        "q-2be6516d"
       ],
       "published": true,
       "sortOrder": 2
@@ -1065,6 +1075,176 @@
       "image": "",
       "explanationImage": "",
       "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-7324b40a",
+      "type": "image-title",
+      "question": "图中的组织徽章出自哪一部动画？",
+      "options": [
+        "进击的巨人",
+        "间谍过家家",
+        "咒术回战",
+        "鬼灭之刃"
+      ],
+      "answer": 0,
+      "explanation": "该徽章是调查兵团团徽，也被称为自由之翼，出自《进击的巨人》。",
+      "image": "assets/images/20261030-160634.png",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-8ee29fe3",
+      "type": "image-title",
+      "question": "以下人物出自哪部番？",
+      "options": [
+        "紫罗兰永恒花园",
+        "葬送的芙莉莲",
+        "刀剑神域",
+        "CLANNAD"
+      ],
+      "answer": 0,
+      "explanation": "图中是薇尔莉特·伊芙加登，曾经是战争士兵，战后成为自动手记人偶。",
+      "image": "assets/images/Violet_Evergarden_Copyright.webp",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-bf6142ad",
+      "type": "image-title",
+      "question": "这把武器是哪部作品里的专属武器？",
+      "options": [
+        "刀剑神域",
+        "咒术回战",
+        "鬼灭之刃",
+        "钢之炼金术师"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "image": "assets/images/20261030-161156.png",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-8b9212d6",
+      "type": "single",
+      "question": "这面海贼旗属于哪一个海贼团？",
+      "options": [
+        "红发海贼团",
+        "草帽一伙",
+        "白胡子海贼团",
+        "黑胡子海贼团"
+      ],
+      "answer": 1,
+      "explanation": "草帽一伙的海贼旗，标志性的草帽骷髅，主角路飞所属海贼团。",
+      "image": "assets/images/20261030-161229-d7c775.png",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-379b5168",
+      "type": "audio-choice",
+      "question": "以下台词出自哪部番？",
+      "options": [
+        "鬼灭之刃",
+        "JOJO的奇妙冒险",
+        "咒术回战",
+        "火影忍者"
+      ],
+      "answer": 3,
+      "explanation": "火影佩恩神罗天征的台词",
+      "image": "",
+      "explanationImage": "",
+      "audio": "assets/audio/MyVideo_1.mp3",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-6ddbe577",
+      "type": "audio-choice",
+      "question": "以下台词出自哪部番？",
+      "options": [
+        "火影忍者",
+        "鬼灭之刃",
+        "JOJO的奇妙历险",
+        "齐木楠雄的灾难"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "image": "",
+      "explanationImage": "",
+      "audio": "assets/audio/那么jojo里空条承太郎又说了多少“呀嘞呀嘞（daze）”呢_哔哩哔哩_bilibili - Google Chrome 2026-10-30 16-48-09 (2).mp3",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-2be6516d",
+      "type": "audio-choice",
+      "question": "以下音乐出自哪部番？",
+      "options": [
+        "鬼灭之刃",
+        "电锯人",
+        "咒术回战",
+        "进击的巨人"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "image": "",
+      "explanationImage": "assets/images/ScreenShot_2026-10-30_170742_543.png",
+      "audio": "assets/audio/青のすみか (Acoustic ver.) - キタニタツヤ    2025-11-06 18-11-11.mp3",
+      "categoryId": "quiz-deep"
+    },
+    {
+      "id": "q-c7b1300a",
+      "type": "audio-choice",
+      "question": "以下音乐出自哪部番？",
+      "options": [
+        "火影忍者",
+        "罪恶王冠",
+        "胆大党",
+        "葬送的芙莉莲"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "image": "",
+      "explanationImage": "assets/images/ScreenShot_2026-10-30_171322_343.png",
+      "audio": "assets/audio/勇者 - YOASOBI    2025-11-07 21-11-31.mp3",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "q-cff9bb2f",
+      "type": "audio-choice",
+      "question": "以下音乐出自哪部番？",
+      "options": [
+        "鬼灭之刃",
+        "火影忍者",
+        "我推的孩子",
+        "葬送的芙莉莲"
+      ],
+      "answer": 1,
+      "explanation": "《青鸟》是东京电视台动画《火影忍者疾风传》的第三首片头曲（2008年4月3日至9月25日）[1]，为生物股长第四次提供动画歌曲。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "assets/audio/ブルーバード - 生物股长    2026-10-30 17-14-33.mp3",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "q-e797d823",
+      "type": "audio-choice",
+      "question": "以下音乐出自哪部番？",
+      "options": [
+        "偶像活动",
+        "我推的孩子",
+        "LoveLive!",
+        "轻音少女"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "image": "",
+      "explanationImage": "assets/images/ScreenShot_2026-10-30_172013_496.png",
+      "audio": "assets/audio/アイドル (偶像) - YOASOBI    2026-10-30 17-19-28.mp3",
       "categoryId": "quiz-entry"
     }
   ]
