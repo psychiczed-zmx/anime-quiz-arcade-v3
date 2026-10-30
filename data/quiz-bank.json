@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T18:25:55",
+  "updatedAt": "2026-10-30T18:29:13",
   "difficulties": [
     "入门级",
     "普宅",
@@ -1336,8 +1336,8 @@
       ],
       "answer": 1,
       "explanation": "御狐神双炽是日本漫画《妖狐×仆SS》的男主角，原型出自藤原可可亚短篇漫画《千金小姐与妖怪执事》的男主角。",
-      "image": "",
-      "explanationImage": "assets/images/images (5).jpg",
+      "image": "assets/images/images (5)-5f426f.jpg",
+      "explanationImage": "",
       "audio": "",
       "categoryId": "quiz-ordinary"
     },
