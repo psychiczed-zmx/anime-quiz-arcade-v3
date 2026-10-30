@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T12:18:19",
+  "updatedAt": "2026-10-30T15:57:54",
   "difficulties": [
     "入门级",
     "普宅",
@@ -26,7 +26,25 @@
         "q18",
         "q24",
         "q26",
-        "q29"
+        "q29",
+        "submission-q2",
+        "submission-q3",
+        "submission-q4",
+        "submission-q6",
+        "submission-q7",
+        "submission-q11",
+        "submission-q14",
+        "submission-q15",
+        "submission-q16",
+        "submission-q18",
+        "submission-q19",
+        "submission-q20",
+        "submission-q21",
+        "submission-q23",
+        "submission-q32",
+        "submission-q33",
+        "submission-q35",
+        "submission-q39"
       ],
       "published": true,
       "sortOrder": 0
@@ -46,7 +64,14 @@
         "q20",
         "q21",
         "q25",
-        "q28"
+        "q28",
+        "submission-q9",
+        "submission-q10",
+        "submission-q12",
+        "submission-q22",
+        "submission-q26",
+        "submission-q29",
+        "submission-q36"
       ],
       "published": true,
       "sortOrder": 1
@@ -61,7 +86,11 @@
         "q16",
         "q22",
         "q23",
-        "q27"
+        "q27",
+        "submission-q17",
+        "submission-q27",
+        "submission-q28",
+        "submission-q31"
       ],
       "published": true,
       "sortOrder": 2
@@ -540,6 +569,499 @@
       "options": [],
       "answer": "镝丸",
       "explanation": "好像并不需要解释。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q2",
+      "type": "single",
+      "question": "《火影忍者》里鸣人的九尾叫什么？",
+      "options": [
+        "守鹤",
+        "九喇嘛",
+        "矶抚",
+        "犀犬"
+      ],
+      "answer": 1,
+      "explanation": "九喇嘛是九尾的正式名字，守鹤是一尾，矶抚是三尾，犀犬是六尾。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q3",
+      "type": "single",
+      "question": "《鬼灭之刃》炭治郎的日轮刀初始是什么颜色？",
+      "options": [
+        "红色",
+        "蓝色",
+        "黑色",
+        "金色"
+      ],
+      "answer": 2,
+      "explanation": "炭治郎的日轮刀为黑色，又被称为赫刀，是十分稀少的颜色；红色日轮刀一般代表炎之呼吸。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q4",
+      "type": "single",
+      "question": "《咒术回战》五条悟的领域是？",
+      "options": [
+        "黑闪",
+        "无量空处",
+        "茈",
+        "领域·伏魔御厨子"
+      ],
+      "answer": 1,
+      "explanation": "无量空处是五条悟的领域；伏魔御厨子是两面宿傩的领域，茈是五条悟的术式组合技，黑闪是咒力打击的特殊现象。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q6",
+      "type": "single",
+      "question": "《紫罗兰永恒花园》薇尔莉特以前的身份是？",
+      "options": [
+        "护士",
+        "军人",
+        "教师",
+        "歌手"
+      ],
+      "answer": 1,
+      "explanation": "薇尔莉特原本是战争兵器，作为军人在战场上作战，战争结束后成为自动手记人偶。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q7",
+      "type": "single",
+      "question": "《进击的巨人》巨人的本源来自哪一个始祖？",
+      "options": [
+        "尤弥尔",
+        "希斯特利亚",
+        "弗里茨",
+        "艾伦"
+      ],
+      "answer": 0,
+      "explanation": "始祖尤弥尔是第一个巨人，所有巨人的力量都起源于她；希斯特利亚是尤弥尔的后代。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q9",
+      "type": "single",
+      "question": "《CLANNAD》古河渚的愿望是重建什么？",
+      "options": [
+        "话剧社",
+        "棒球社",
+        "音乐社",
+        "美术社"
+      ],
+      "answer": 0,
+      "explanation": "古河渚一直希望重建濒临废社的话剧社，也是故事前期重要的主线。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "submission-q10",
+      "type": "single",
+      "question": "《Re:从零开始》菜月昴的能力叫？",
+      "options": [
+        "时间回溯",
+        "死亡回归",
+        "命运改写",
+        "空间跳跃"
+      ],
+      "answer": 1,
+      "explanation": "菜月昴的能力是死亡回归，死亡之后会回到固定时间点，这个能力由嫉妒魔女莎缇拉赋予。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "submission-q11",
+      "type": "single",
+      "question": "《辉夜大小姐想让我告白》白银御行的职务是？",
+      "options": [
+        "学生会会长",
+        "风纪委员",
+        "图书委员",
+        "体育委员"
+      ],
+      "answer": 0,
+      "explanation": "白银御行是秀知院学园学生会会长，和四宫辉夜同为学生会核心成员。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q12",
+      "type": "single",
+      "question": "《刀剑神域》SAO篇里，通关层数是多少层？",
+      "options": [
+        "75",
+        "100",
+        "99",
+        "80"
+      ],
+      "answer": 0,
+      "explanation": "SAO原定一共100层，但是桐人在第75层击杀希兹克利夫，直接通关了SAO。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "submission-q14",
+      "type": "single",
+      "question": "《东京喰种》金木研的赫子属于哪一类？",
+      "options": [
+        "尾赫",
+        "鳞赫",
+        "甲赫",
+        "羽赫"
+      ],
+      "answer": 1,
+      "explanation": "金木研移植了神代利世的器官，神代利世是鳞赫，所以金木的赫子为鳞赫，爆发力强、恢复优秀。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q15",
+      "type": "single",
+      "question": "《关于我转生变成史莱姆这档事》利姆露的原名是？",
+      "options": [
+        "三上悟",
+        "坂田悟",
+        "佐藤悟",
+        "田中悟"
+      ],
+      "answer": 0,
+      "explanation": "利姆露转生之前是名叫三上悟的普通上班族，遇刺身亡后转生为史莱姆。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q16",
+      "type": "single",
+      "question": "《葬送的芙莉莲》芙莉莲是什么种族？",
+      "options": [
+        "人类",
+        "精灵",
+        "矮人",
+        "魔族"
+      ],
+      "answer": 1,
+      "explanation": "芙莉莲是精灵族，精灵寿命极长，人类几十年的时光在她眼里非常短暂。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q17",
+      "type": "single",
+      "question": "《钢之炼金术师FA》真理之门的代价，阿尔冯斯失去的是？",
+      "options": [
+        "右手",
+        "整个身体",
+        "左脚",
+        "左眼"
+      ],
+      "answer": 1,
+      "explanation": "阿尔和哥哥爱德华尝试人体炼成母亲，阿尔冯斯付出了全部身体作为代价，灵魂被封在铠甲里；爱德华失去了左手。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-deep"
+    },
+    {
+      "id": "submission-q18",
+      "type": "single",
+      "question": "《凉宫春日的忧郁》凉宫春日创建社团名字是？",
+      "options": [
+        "SOS团",
+        "黄昏社",
+        "异闻社",
+        "观测社"
+      ],
+      "answer": 0,
+      "explanation": "全称是“让世界变得更热闹的凉宫春日团”，简称SOS团。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q19",
+      "type": "single",
+      "question": "《命运石之门》牧濑红莉栖的外号是？",
+      "options": [
+        "助手",
+        "天才",
+        "学姐",
+        "博士"
+      ],
+      "answer": 0,
+      "explanation": "冈部伦太郎一直称呼牧濑红莉栖为助手，这个外号也被粉丝沿用。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q20",
+      "type": "single",
+      "question": "《EVA》初号机的本体是？",
+      "options": [
+        "使徒复制体",
+        "莉莉丝的分身",
+        "亚当",
+        "人类"
+      ],
+      "answer": 1,
+      "explanation": "初号机的本体是莉莉丝的分身，二号机等其他量产机原型来自亚当。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q21",
+      "type": "single",
+      "question": "《四月是你的谎言》宫园薰演奏的乐器是？",
+      "options": [
+        "钢琴",
+        "小提琴",
+        "大提琴",
+        "长笛"
+      ],
+      "answer": 1,
+      "explanation": "宫园薰是小提琴手，公生是钢琴手，两人的合奏是故事核心。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q22",
+      "type": "single",
+      "question": "《寄生兽》主角泉新一的寄生体名字是？",
+      "options": [
+        "米奇",
+        "小右",
+        "阿左",
+        "卡卡"
+      ],
+      "answer": 1,
+      "explanation": "寄生在泉新一右手的寄生生物，名字叫小右（Migi）。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "submission-q23",
+      "type": "single",
+      "question": "《龙与虎》逢坂大河的外号是？",
+      "options": [
+        "掌上老虎",
+        "掌中萌虎",
+        "深山猛虎",
+        "白夜虎"
+      ],
+      "answer": 1,
+      "explanation": "逢坂大河身材娇小，性格凶悍，外号掌中萌虎（Tiger）。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q26",
+      "type": "single",
+      "question": "《物语系列》中，阿良良木历第一次遇到羽川翼时，羽川翼正被哪一种怪异缠身？",
+      "options": [
+        "黑羽川",
+        "苛虎",
+        "障猫",
+        "雨魔"
+      ],
+      "answer": 2,
+      "explanation": "初登场是被障猫附身；黑羽川是障猫的暴走形态，苛虎是后续诞生的另一个怪异。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "submission-q27",
+      "type": "single",
+      "question": "《Re:从零开始的异世界生活》，大罪司教“怠惰”的本名是？",
+      "options": [
+        "贝特鲁吉乌斯·罗曼尼康帝",
+        "罗兹瓦尔",
+        "莱茵哈鲁特",
+        "库珥修"
+      ],
+      "answer": 0,
+      "explanation": "怠惰大罪司教全名贝特鲁吉乌斯·罗曼尼康帝，原本是魔女教虔诚的信徒，被魔女因子侵蚀精神。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-deep"
+    },
+    {
+      "id": "submission-q28",
+      "type": "single",
+      "question": "《EVA》中，NERV的标志叶子图案代表什么植物？",
+      "options": [
+        "橄榄叶",
+        "无花果叶",
+        "月桂叶",
+        "枫叶"
+      ],
+      "answer": 1,
+      "explanation": "NERV标志使用无花果叶，出自圣经中亚当夏娃偷吃禁果后遮蔽身体的无花果树叶。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-deep"
+    },
+    {
+      "id": "submission-q29",
+      "type": "single",
+      "question": "《葬送的芙莉莲》，人类勇者辛美尔小队讨伐魔王一共花费了多少年？",
+      "options": [
+        "10年",
+        "15年",
+        "20年",
+        "25年"
+      ],
+      "answer": 2,
+      "explanation": "希梅尔、芙莉莲、艾冉、海塔四人历经20年的旅途，才最终完成讨伐魔王的使命。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "submission-q31",
+      "type": "single",
+      "question": "《CLANNAD》，冈崎汐的身体虚弱主要根源来自？",
+      "options": [
+        "先天遗传病",
+        "小镇的光玉力量",
+        "古河渚的体质",
+        "后天感染"
+      ],
+      "answer": 2,
+      "explanation": "汐继承了母亲古河渚的身体隐患，渚本身就是小镇意志诞生的存在，体弱的特质传递给汐。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-deep"
+    },
+    {
+      "id": "submission-q32",
+      "type": "single",
+      "question": "《刀剑神域》SAO中，亚丝娜的游戏ID原名是？",
+      "options": [
+        "结城明日奈",
+        "Asuna",
+        "Sunya",
+        "Aria"
+      ],
+      "answer": 1,
+      "explanation": "亚丝娜Asuna就是她游戏ID；结城明日奈是现实世界本名。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q33",
+      "type": "single",
+      "question": "《进击的巨人》，巨人化之后无法维持人形的人被称作？",
+      "options": [
+        "奇行种",
+        "无垢巨人",
+        "兽巨人",
+        "傀儡巨人"
+      ],
+      "answer": 1,
+      "explanation": "普通人类注射巨人脊髓液变成无垢巨人，失去人格；奇行种是行为异常的无垢巨人。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q35",
+      "type": "single",
+      "question": "《凉宫春日的忧郁》，长门有希的真实身份是？",
+      "options": [
+        "未来人",
+        "外星人情报统合思念体的接口",
+        "超能力者",
+        "普通人类"
+      ],
+      "answer": 1,
+      "explanation": "长门有希是宇宙的情报统合思念体制造出来的对有机生命体接触用人形界面。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-entry"
+    },
+    {
+      "id": "submission-q36",
+      "type": "single",
+      "question": "《咒术回战》，两面宿傩原本的人类身份是？",
+      "options": [
+        "诅咒诞生的怪物",
+        "千年前的咒术师",
+        "神的化身",
+        "被诅咒的贵族"
+      ],
+      "answer": 1,
+      "explanation": "两面宿傩千年前本是人类最强咒术师，死后化为诅咒留存于世。",
+      "image": "",
+      "explanationImage": "",
+      "audio": "",
+      "categoryId": "quiz-ordinary"
+    },
+    {
+      "id": "submission-q39",
+      "type": "single",
+      "question": "《鬼灭之刃》，上弦之贰童磨的血鬼术属性是？",
+      "options": [
+        "火焰",
+        "冰",
+        "雷电",
+        "风"
+      ],
+      "answer": 1,
+      "explanation": "童磨的血鬼术是冰，制造冰晶、冰雾进行攻击；他没有与生俱来的情绪与感情。",
       "image": "",
       "explanationImage": "",
       "audio": "",
